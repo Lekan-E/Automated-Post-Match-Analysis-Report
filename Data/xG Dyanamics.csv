@@ -1,0 +1,26 @@
+id,period,match_id,player_id,location,player,position,team,minute,shot_statsbomb_xg,shot_outcome
+3787ac1c-b077-4960-b717-ce3e7361f8a4,1,3943043,68574.0,"[115.6, 28.4]",Nicholas Williams Arthuer,Left Wing,Spain,11,0.06802966,Blocked
+c825856a-5a21-4507-b9e2-ea07b5bf4cca,1,3943043,22128.0,"[112.9, 36.2]",Robin Aime Robert Le Normand,Right Center Back,Spain,12,0.11746518,Off T
+dd4098ae-cd79-4d2a-9717-e95b5fd21674,1,3943043,3943.0,"[96.2, 40.8]",Declan Rice,Left Defensive Midfield,England,16,0.0489952,Blocked
+7f58b69c-8311-493f-91dd-d2a57ac07387,1,3943043,6655.0,"[101.2, 49.8]",Fabián Ruiz Peña,Left Defensive Midfield,Spain,27,0.048117142,Saved
+064d60aa-8976-42ad-9186-b26265fe1d1a,1,3943043,16532.0,"[95.0, 31.2]",Daniel Olmo Carvajal,Center Attacking Midfield,Spain,34,0.02654902,Blocked
+2927d5ca-c7c1-4296-81a6-41e7f28cbfbd,1,3943043,3477.0,"[113.9, 30.2]",Álvaro Borja Morata Martín,Center Forward,Spain,42,0.07835983,Blocked
+484f93a1-bf76-4bfa-a221-9f43d577ecbf,1,3943043,10955.0,"[102.6, 36.7]",Harry Kane,Center Forward,England,44,0.048372418,Blocked
+37dba1eb-66ba-4fde-a3f2-0bb571817528,1,3943043,4354.0,"[114.4, 29.9]",Phil Foden,Center Attacking Midfield,England,45,0.1796937,Saved
+64e7e679-4246-4172-b59e-56905a09ffbf,2,3943043,68574.0,"[109.9, 28.0]",Nicholas Williams Arthuer,Left Wing,Spain,46,0.1124816,Goal
+7ba261a3-9a7f-4068-8547-6a7355fa032f,2,3943043,16532.0,"[108.8, 32.1]",Daniel Olmo Carvajal,Center Attacking Midfield,Spain,48,0.2455793,Off T
+02c1f765-7ef5-4262-8ba9-91460f91d317,2,3943043,3477.0,"[95.8, 46.1]",Álvaro Borja Morata Martín,Center Forward,Spain,54,0.02528921,Blocked
+c5c8b815-2869-4b45-ac6c-dfdad0b3d4c5,2,3943043,3477.0,"[110.9, 51.0]",Álvaro Borja Morata Martín,Center Forward,Spain,54,0.24310583,Wayward
+04ce2e1e-1ffc-4269-b14e-de16f303a5c5,2,3943043,68574.0,"[97.2, 43.4]",Nicholas Williams Arthuer,Left Wing,Spain,55,0.04913289,Off T
+4003c4bf-c312-4e5f-8b94-41355f26f1fa,2,3943043,30714.0,"[99.0, 37.2]",Jude Bellingham,Left Wing,England,63,0.05628593,Off T
+06960e85-8515-4da0-9828-81c07cce0d6e,2,3943043,316046.0,"[103.5, 49.7]",Lamine Yamal Nasraoui Ebana,Right Wing,Spain,65,0.16213313,Saved
+cc33ae6a-a186-4b6d-890a-ef0e59327853,2,3943043,4353.0,"[111.9, 43.8]",Aymeric Laporte,Left Center Back,Spain,66,0.097933225,Blocked
+9c6371c7-8400-498f-8254-ed2fa2a56d93,2,3943043,6655.0,"[93.3, 35.9]",Fabián Ruiz Peña,Left Defensive Midfield,Spain,69,0.03257165,Off T
+be6417cc-b3ec-4a67-a4b2-e6648b14566d,2,3943043,4760.0,"[91.0, 40.1]",Ollie Watkins,Center Forward,England,69,0.07470869,Blocked
+cebe071f-c7b3-4c7b-88c1-73d5e70e22a4,2,3943043,6685.0,"[112.0, 24.9]",Mikel Oyarzabal Ugarte,Center Forward,Spain,71,0.037707567,Saved
+45a21d64-ccc8-4007-b9c8-fb3f6992dace,2,3943043,39461.0,"[98.4, 49.0]",Cole Palmer,Center Attacking Midfield,England,72,0.03794335,Goal
+32c3acc6-3796-44d2-93d1-2268bbcc0050,2,3943043,316046.0,"[107.2, 50.2]",Lamine Yamal Nasraoui Ebana,Right Wing,Spain,81,0.16392969,Saved
+35c0a2a4-8e87-41cf-a26f-f85859261d87,2,3943043,6685.0,"[111.2, 36.3]",Mikel Oyarzabal Ugarte,Center Forward,Spain,85,0.2833282,Goal
+a7918f5b-489f-4e7d-b815-a9409488f7d0,2,3943043,3943.0,"[109.5, 44.1]",Declan Rice,Left Defensive Midfield,England,89,0.057442125,Saved
+78efc835-09e5-468f-a87b-f593799568c4,2,3943043,34526.0,"[114.8, 35.5]",Marc Guehi,Left Center Back,England,89,0.117154144,Blocked
+e6df2aac-8a83-47c2-94a8-094c90c3e03d,2,3943043,3943.0,"[113.1, 41.4]",Declan Rice,Left Defensive Midfield,England,89,0.10578214,Off T

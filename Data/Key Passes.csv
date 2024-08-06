@@ -1,0 +1,21 @@
+id,match_id,period,minute,player,player_id,position,period,home_away,location_x,location_y,shot_key_pass_id,team,id_end,location_x_end,location_y_end
+3787ac1c-b077-4960-b717-ce3e7361f8a4,3943043,1,11,Nicholas Williams Arthuer,68574.0,Left Wing,1,home,115.6,28.4,58f991d4-fef8-47d4-a7d3-bfcb2ea6b078,Spain,58f991d4-fef8-47d4-a7d3-bfcb2ea6b078,65.1,4.5
+c825856a-5a21-4507-b9e2-ea07b5bf4cca,3943043,1,12,Robin Aime Robert Le Normand,22128.0,Right Center Back,1,home,112.9,36.2,0c0e6467-4ce7-4a32-9de2-da2ed79db032,Spain,0c0e6467-4ce7-4a32-9de2-da2ed79db032,114.2,48.3
+dd4098ae-cd79-4d2a-9717-e95b5fd21674,3943043,1,16,Declan Rice,3943.0,Left Defensive Midfield,1,away,96.2,40.8,86536f69-41fc-4585-b5ee-7a68d6dd4b32,England,86536f69-41fc-4585-b5ee-7a68d6dd4b32,106.3,57.5
+7f58b69c-8311-493f-91dd-d2a57ac07387,3943043,1,27,Fabián Ruiz Peña,6655.0,Left Defensive Midfield,1,home,101.2,49.8,f21c2c5a-aa37-49ea-aad1-d399d5569c88,Spain,f21c2c5a-aa37-49ea-aad1-d399d5569c88,83.1,71.6
+064d60aa-8976-42ad-9186-b26265fe1d1a,3943043,1,34,Daniel Olmo Carvajal,16532.0,Center Attacking Midfield,1,home,95.0,31.2,f754e52f-555d-4f81-887f-624505e6ad01,Spain,f754e52f-555d-4f81-887f-624505e6ad01,115.0,11.3
+484f93a1-bf76-4bfa-a221-9f43d577ecbf,3943043,1,44,Harry Kane,10955.0,Center Forward,1,away,102.6,36.7,db26051c-2126-4e40-baa7-b2bb6150457e,England,db26051c-2126-4e40-baa7-b2bb6150457e,106.3,18.5
+64e7e679-4246-4172-b59e-56905a09ffbf,3943043,2,46,Nicholas Williams Arthuer,68574.0,Left Wing,2,home,109.9,28.0,75f70edc-b938-4a05-9849-310647c399f6,Spain,75f70edc-b938-4a05-9849-310647c399f6,100.6,47.0
+7ba261a3-9a7f-4068-8547-6a7355fa032f,3943043,2,48,Daniel Olmo Carvajal,16532.0,Center Attacking Midfield,2,home,108.8,32.1,1ce0ce74-6d55-482e-8c96-afdaf82ed4bd,Spain,1ce0ce74-6d55-482e-8c96-afdaf82ed4bd,96.3,25.0
+02c1f765-7ef5-4262-8ba9-91460f91d317,3943043,2,54,Álvaro Borja Morata Martín,3477.0,Center Forward,2,home,95.8,46.1,b022f182-9ab9-41ff-b6f7-ac736f907176,Spain,b022f182-9ab9-41ff-b6f7-ac736f907176,79.8,74.9
+c5c8b815-2869-4b45-ac6c-dfdad0b3d4c5,3943043,2,54,Álvaro Borja Morata Martín,3477.0,Center Forward,2,home,110.9,51.0,c20626d0-8965-428d-9ed7-9c532393c9a9,Spain,c20626d0-8965-428d-9ed7-9c532393c9a9,83.9,50.6
+04ce2e1e-1ffc-4269-b14e-de16f303a5c5,3943043,2,55,Nicholas Williams Arthuer,68574.0,Left Wing,2,home,97.2,43.4,741a2bc8-ce2e-40a3-9c11-6a20a1017fd8,Spain,741a2bc8-ce2e-40a3-9c11-6a20a1017fd8,83.1,46.6
+4003c4bf-c312-4e5f-8b94-41355f26f1fa,3943043,2,63,Jude Bellingham,30714.0,Left Wing,2,away,99.0,37.2,0da5b48c-3638-4c05-a931-8484af525735,England,0da5b48c-3638-4c05-a931-8484af525735,98.4,70.7
+06960e85-8515-4da0-9828-81c07cce0d6e,3943043,2,65,Lamine Yamal Nasraoui Ebana,316046.0,Right Wing,2,home,103.5,49.7,82728213-7ecf-470c-b28a-2b3456c2a0de,Spain,82728213-7ecf-470c-b28a-2b3456c2a0de,77.0,40.2
+cc33ae6a-a186-4b6d-890a-ef0e59327853,3943043,2,66,Aymeric Laporte,4353.0,Left Center Back,2,home,111.9,43.8,7293ca55-f341-45ef-a953-6a533d19ffe4,Spain,7293ca55-f341-45ef-a953-6a533d19ffe4,120.0,0.1
+9c6371c7-8400-498f-8254-ed2fa2a56d93,3943043,2,69,Fabián Ruiz Peña,6655.0,Left Defensive Midfield,2,home,93.3,35.9,22e60084-2279-4a2e-909a-ae6d1e9ad612,Spain,22e60084-2279-4a2e-909a-ae6d1e9ad612,89.5,25.3
+cebe071f-c7b3-4c7b-88c1-73d5e70e22a4,3943043,2,71,Mikel Oyarzabal Ugarte,6685.0,Center Forward,2,home,112.0,24.9,b2606618-4879-4576-8739-4e77e1bbf4a0,Spain,b2606618-4879-4576-8739-4e77e1bbf4a0,88.9,36.4
+45a21d64-ccc8-4007-b9c8-fb3f6992dace,3943043,2,72,Cole Palmer,39461.0,Center Attacking Midfield,2,away,98.4,49.0,12fd28e4-7ce9-4939-9927-835fc7ad7e2b,England,12fd28e4-7ce9-4939-9927-835fc7ad7e2b,107.6,47.0
+32c3acc6-3796-44d2-93d1-2268bbcc0050,3943043,2,81,Lamine Yamal Nasraoui Ebana,316046.0,Right Wing,2,home,107.2,50.2,b188001a-faca-49f4-b915-7058c95e9d69,Spain,b188001a-faca-49f4-b915-7058c95e9d69,104.8,46.9
+35c0a2a4-8e87-41cf-a26f-f85859261d87,3943043,2,85,Mikel Oyarzabal Ugarte,6685.0,Center Forward,2,home,111.2,36.3,c62dd5f1-7e67-4e25-8e28-8fc859a6fd47,Spain,c62dd5f1-7e67-4e25-8e28-8fc859a6fd47,100.0,12.7
+a7918f5b-489f-4e7d-b815-a9409488f7d0,3943043,2,89,Declan Rice,3943.0,Left Defensive Midfield,2,away,109.5,44.1,5423b3d4-6ae5-4e45-ac1b-461d6085c42f,England,5423b3d4-6ae5-4e45-ac1b-461d6085c42f,120.0,0.1

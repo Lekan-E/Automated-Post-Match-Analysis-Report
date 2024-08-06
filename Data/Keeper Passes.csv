@@ -1,0 +1,83 @@
+id,match_id,period,minute,player,player_id,position,location_x,location_y,pass_recipient,pass_recipient_id,pass_end_location_x,pass_end_location_y,pass_type,pass_length,pass_outcome,pass_body_part,team,home_away
+238f44cb-0f18-4217-85b5-8cc6345278fe,3943043,1,0,Unai Simón Mendibil,11748.0,Goalkeeper,6.9,39.6,Robin Aime Robert Le Normand,22128.0,9.1,57.2,Goal Kick,17.736967,,Left Foot,Spain,Home
+9567fc2b-fccc-471e-b201-1e64a4e4dc6f,3943043,1,2,Unai Simón Mendibil,11748.0,Goalkeeper,3.2,46.9,Robin Aime Robert Le Normand,22128.0,10.0,68.1,,22.263872,,Right Foot,Spain,Home
+e23eeb9d-ef55-42a8-93c7-1b0701490a95,3943043,1,2,Unai Simón Mendibil,11748.0,Goalkeeper,13.5,37.3,Robin Aime Robert Le Normand,22128.0,16.6,56.1,,19.053871,,Right Foot,Spain,Home
+70e9c1b1-5a37-489c-9aff-4db6674e3688,3943043,1,2,Unai Simón Mendibil,11748.0,Goalkeeper,10.2,50.2,Aymeric Laporte,4353.0,22.1,27.1,,25.984995,,Right Foot,Spain,Home
+9b575fc6-b2b3-46a1-86d6-eaf2ce85b07a,3943043,1,10,Unai Simón Mendibil,11748.0,Goalkeeper,9.8,40.0,Aymeric Laporte,4353.0,18.0,25.2,,16.919811,,Right Foot,Spain,Home
+e1c4c912-98c0-45ad-ae05-a7987e28e190,3943043,1,10,Unai Simón Mendibil,11748.0,Goalkeeper,13.5,40.2,Robin Aime Robert Le Normand,22128.0,13.7,61.0,,20.800962,,Left Foot,Spain,Home
+c42a2b8e-4ffc-47b1-b625-f7870ba57f8b,3943043,1,13,Unai Simón Mendibil,11748.0,Goalkeeper,14.4,44.9,Robin Aime Robert Le Normand,22128.0,20.4,57.9,,14.3178215,,Keeper Arm,Spain,Home
+4266fcac-c357-48e1-8ec5-d670184b63e6,3943043,1,13,Unai Simón Mendibil,11748.0,Goalkeeper,12.0,45.5,Aymeric Laporte,4353.0,21.1,29.2,,18.668154,,Right Foot,Spain,Home
+b3d7e6f8-efeb-4148-8b65-19c05146c60a,3943043,1,17,Unai Simón Mendibil,11748.0,Goalkeeper,8.4,43.8,Aymeric Laporte,4353.0,19.3,34.7,,14.199296,,Right Foot,Spain,Home
+a2e91ff0-38b0-481e-81b6-948851bfed91,3943043,1,17,Unai Simón Mendibil,11748.0,Goalkeeper,20.8,33.8,Aymeric Laporte,4353.0,32.3,25.5,,14.182384,,Right Foot,Spain,Home
+ec0e9cdd-b4b3-411c-8d67-b11b2f5b284a,3943043,1,26,Unai Simón Mendibil,11748.0,Goalkeeper,21.9,35.7,Aymeric Laporte,4353.0,28.7,30.8,Free Kick,8.381527,,Right Foot,Spain,Home
+695e1ec7-2159-44d2-bb3e-76750868a58c,3943043,1,26,Unai Simón Mendibil,11748.0,Goalkeeper,19.7,42.6,Aymeric Laporte,4353.0,36.5,28.1,,22.192116,,Right Foot,Spain,Home
+866b00b3-43fc-4c7a-88c4-6038a543d51e,3943043,1,29,Unai Simón Mendibil,11748.0,Goalkeeper,2.9,48.6,,,56.6,52.2,,53.820534,Incomplete,Right Foot,Spain,Home
+687f6945-3c0c-4b61-8cfa-653e3823acc9,3943043,1,29,Unai Simón Mendibil,11748.0,Goalkeeper,8.9,34.9,Robin Aime Robert Le Normand,22128.0,16.4,45.9,,13.313527,,Keeper Arm,Spain,Home
+d9d00551-cb59-443e-aefa-175bb570e796,3943043,1,32,Unai Simón Mendibil,11748.0,Goalkeeper,13.7,43.1,Robin Aime Robert Le Normand,22128.0,22.3,55.9,,15.420765,,Left Foot,Spain,Home
+adc7b454-6c32-475c-8843-4f6184c8d821,3943043,1,32,Unai Simón Mendibil,11748.0,Goalkeeper,6.6,46.9,Aymeric Laporte,4353.0,21.7,24.9,,26.683516,,Right Foot,Spain,Home
+28b7c7bc-a7e0-45e2-aa9e-29bf8c404558,3943043,1,42,Unai Simón Mendibil,11748.0,Goalkeeper,12.9,44.4,Robin Aime Robert Le Normand,22128.0,28.6,58.1,,20.836987,,Right Foot,Spain,Home
+c374b581-0807-40c0-8e99-c62a97d7fe18,3943043,1,46,Unai Simón Mendibil,11748.0,Goalkeeper,3.6,43.5,Aymeric Laporte,4353.0,31.7,26.9,,32.636944,,Keeper Arm,Spain,Home
+5a9adac4-b227-4da9-9275-c60b28b09c9c,3943043,2,45,Unai Simón Mendibil,11748.0,Goalkeeper,10.7,33.8,Álvaro Borja Morata Martín,3477.0,56.8,24.7,,46.989574,Incomplete,Right Foot,Spain,Home
+8e0b411a-9f31-4d65-a86b-273e238511a2,3943043,2,47,Unai Simón Mendibil,11748.0,Goalkeeper,6.8,37.5,Aymeric Laporte,4353.0,23.6,11.6,,30.871508,,Right Foot,Spain,Home
+7f0316b6-f197-4c0f-9014-02bc8cbd7e3f,3943043,2,47,Unai Simón Mendibil,11748.0,Goalkeeper,10.6,31.0,Robin Aime Robert Le Normand,22128.0,14.0,53.3,,22.557703,,Left Foot,Spain,Home
+e9077385-1617-49aa-9477-eaa0e3195529,3943043,2,50,Unai Simón Mendibil,11748.0,Goalkeeper,5.4,39.5,Robin Aime Robert Le Normand,22128.0,5.9,58.5,Goal Kick,19.006578,,Right Foot,Spain,Home
+405e4db4-f664-4d33-8ec2-3409ee851ec4,3943043,2,52,Unai Simón Mendibil,11748.0,Goalkeeper,8.2,58.0,Álvaro Borja Morata Martín,3477.0,55.9,60.3,,47.755417,,Right Foot,Spain,Home
+3222f7b0-64d8-4b63-8310-397139a5a4d9,3943043,2,57,Unai Simón Mendibil,11748.0,Goalkeeper,15.4,29.1,Robin Aime Robert Le Normand,22128.0,24.5,48.9,,21.791054,,Right Foot,Spain,Home
+b5014eb3-ea86-4565-b4ab-cea9a51b2432,3943043,2,58,Unai Simón Mendibil,11748.0,Goalkeeper,13.1,42.7,Robin Aime Robert Le Normand,22128.0,22.3,53.5,,14.187318,,Right Foot,Spain,Home
+262a101d-20ff-4cfe-8ead-ded9a3dddbfb,3943043,2,58,Unai Simón Mendibil,11748.0,Goalkeeper,8.7,51.4,Daniel Olmo Carvajal,16532.0,50.9,53.8,,42.268192,,Right Foot,Spain,Home
+3f172871-9692-4932-bf5b-3d5bd1a81cdf,3943043,2,64,Unai Simón Mendibil,11748.0,Goalkeeper,5.0,40.3,Robin Aime Robert Le Normand,22128.0,10.4,59.7,,20.137527,,Left Foot,Spain,Home
+5dfe4d6f-0b61-4d3d-a89b-2ec55b8d950c,3943043,2,65,Unai Simón Mendibil,11748.0,Goalkeeper,4.5,39.5,,,65.0,28.5,,61.49187,Incomplete,Right Foot,Spain,Home
+14329682-f4a8-4456-b375-d58cbae57b42,3943043,2,71,Unai Simón Mendibil,11748.0,Goalkeeper,10.0,33.8,Daniel Olmo Carvajal,16532.0,49.7,47.4,,41.964867,,Right Foot,Spain,Home
+b81280ba-e006-4aa8-aaaa-ed5bc34873cc,3943043,2,73,Unai Simón Mendibil,11748.0,Goalkeeper,15.4,36.4,Robin Aime Robert Le Normand,22128.0,16.7,65.6,,29.228924,,Right Foot,Spain,Home
+f0698da1-3aeb-4b97-805a-037a47a123c8,3943043,2,75,Unai Simón Mendibil,11748.0,Goalkeeper,5.0,35.0,Aymeric Laporte,4353.0,15.3,26.6,Goal Kick,13.290975,,Right Foot,Spain,Home
+e4494801-3f88-44a8-ba37-eb0796db77ae,3943043,2,75,Unai Simón Mendibil,11748.0,Goalkeeper,15.7,40.3,Robin Aime Robert Le Normand,22128.0,25.4,53.1,,16.0602,,Right Foot,Spain,Home
+ebd13a02-d564-407a-b7a8-29de32095cf1,3943043,2,76,Unai Simón Mendibil,11748.0,Goalkeeper,17.3,39.1,Aymeric Laporte,4353.0,28.7,23.3,,19.483326,,Right Foot,Spain,Home
+6b5c5e68-5810-4913-90d7-359bc0b2d753,3943043,2,76,Unai Simón Mendibil,11748.0,Goalkeeper,13.7,43.0,Aymeric Laporte,4353.0,15.9,22.0,,21.114923,,Right Foot,Spain,Home
+38753aa3-673a-4136-89ee-716c09c8cf26,3943043,2,80,Unai Simón Mendibil,11748.0,Goalkeeper,16.5,38.3,Aymeric Laporte,4353.0,26.2,24.4,,16.949926,,Right Foot,Spain,Home
+21a223ce-c337-41b0-b60b-286661ba82a8,3943043,2,83,Unai Simón Mendibil,11748.0,Goalkeeper,21.2,31.3,José Ignacio Fernández Iglesias,5202.0,28.7,40.3,,11.715375,,Right Foot,Spain,Home
+52d8514b-33bc-4f2f-9db7-b2f2f865575a,3943043,2,84,Unai Simón Mendibil,11748.0,Goalkeeper,28.1,39.7,Marc Cucurella Saseta,17620.0,40.1,31.1,,14.763469,,Right Foot,Spain,Home
+6afea8ce-1780-4598-8e09-5d1be972121a,3943043,2,89,Unai Simón Mendibil,11748.0,Goalkeeper,5.4,43.8,,,70.9,79.4,Goal Kick,74.54938,Out,Right Foot,Spain,Home
+d993c1f2-93a4-4ebc-a2e3-f1d2974ff165,3943043,2,91,Unai Simón Mendibil,11748.0,Goalkeeper,26.1,21.1,Mikel Merino Zazón,3042.0,81.1,32.0,Free Kick,56.069687,Incomplete,Right Foot,Spain,Home
+c97bde53-d083-4ffc-a545-8636450650e4,3943043,2,93,Unai Simón Mendibil,11748.0,Goalkeeper,22.9,5.5,Mikel Merino Zazón,3042.0,98.1,23.4,Free Kick,77.30103,Unknown,Right Foot,Spain,Home
+237201b8-aef8-4823-b282-e82875795c07,3943043,1,0,Jordan Pickford,3468.0,Goalkeeper,28.7,31.6,Bukayo Saka,22084.0,120.0,67.7,,98.1779,Out,Left Foot,England,Away
+c0be00e1-cee8-4ab8-943d-113f2a3e6499,3943043,1,3,Jordan Pickford,3468.0,Goalkeeper,7.9,41.6,Kyle Walker,3205.0,10.8,67.0,,25.565016,,Left Foot,England,Away
+7dee9f2d-78cd-4a21-afce-89907af35a46,3943043,1,9,Jordan Pickford,3468.0,Goalkeeper,18.5,29.3,Bukayo Saka,22084.0,56.6,73.9,,58.658077,,Left Foot,England,Away
+dd822c77-ca37-4192-9fee-bf6ae9d6d52a,3943043,1,9,Jordan Pickford,3468.0,Goalkeeper,25.6,21.6,Luke Shaw,3382.0,87.0,7.1,,63.088905,Incomplete,Left Foot,England,Away
+629a9dc4-3301-4835-abd0-d6f602e2e8d6,3943043,1,13,Jordan Pickford,3468.0,Goalkeeper,6.0,42.4,,,109.4,36.8,Goal Kick,103.55154,Incomplete,Left Foot,England,Away
+1e763785-9d9e-45ed-917b-6acb4ac8667a,3943043,1,16,Jordan Pickford,3468.0,Goalkeeper,8.6,14.5,Jude Bellingham,30714.0,56.9,15.6,,48.312523,,Left Foot,England,Away
+a210ba27-2692-4b98-90dd-9d438284f995,3943043,1,19,Jordan Pickford,3468.0,Goalkeeper,14.8,42.6,Marc Guehi,34526.0,15.6,17.4,,25.212696,,Keeper Arm,England,Away
+34f5259f-7243-45f2-96e1-0c5e8f83cf95,3943043,1,21,Jordan Pickford,3468.0,Goalkeeper,20.1,72.5,Harry Kane,10955.0,88.0,50.3,Free Kick,71.437035,Incomplete,Left Foot,England,Away
+c8f2ef87-91f8-44e1-95da-5978bcb3e59c,3943043,1,22,Jordan Pickford,3468.0,Goalkeeper,13.0,41.9,Phil Foden,4354.0,41.5,42.6,,28.508595,,Keeper Arm,England,Away
+fb2eb23c-89b0-40ff-8710-32643485b9c7,3943043,1,27,Jordan Pickford,3468.0,Goalkeeper,15.9,35.0,John Stones,3244.0,13.8,58.3,,23.394444,,Keeper Arm,England,Away
+988adee7-b0c7-4f09-8ba6-d692425d8fdb,3943043,1,27,Jordan Pickford,3468.0,Goalkeeper,7.7,35.3,Marc Guehi,34526.0,16.3,11.0,,25.776928,,Right Foot,England,Away
+1d169030-7b0c-4bf5-a36f-18c2feefd537,3943043,1,28,Jordan Pickford,3468.0,Goalkeeper,22.2,27.3,Jude Bellingham,30714.0,87.0,16.9,,65.629265,Incomplete,Left Foot,England,Away
+525ba1f7-da38-4238-a0cb-c0e042e93cae,3943043,1,29,Jordan Pickford,3468.0,Goalkeeper,4.6,38.8,Kyle Walker,3205.0,13.2,72.6,,34.876926,,Left Foot,England,Away
+eb80fbea-d67b-4f20-a703-eedbabc050fa,3943043,1,31,Jordan Pickford,3468.0,Goalkeeper,20.9,28.1,Marc Guehi,34526.0,27.7,3.9,,25.137224,,Right Foot,England,Away
+1f351e1f-1a8e-4dbf-b761-64e42cd004f3,3943043,1,36,Jordan Pickford,3468.0,Goalkeeper,6.0,44.8,Kyle Walker,3205.0,65.2,77.8,Goal Kick,67.7764,,Left Foot,England,Away
+f66195d4-6ced-477d-8ba2-ef049565f659,3943043,1,38,Jordan Pickford,3468.0,Goalkeeper,4.0,45.4,Declan Rice,3943.0,15.6,43.0,Goal Kick,11.8456745,,Left Foot,England,Away
+754390a3-f8d6-4eb9-8dcb-026c3db0e94e,3943043,1,38,Jordan Pickford,3468.0,Goalkeeper,3.7,38.7,Jude Bellingham,30714.0,62.9,37.9,,59.205406,,Left Foot,England,Away
+630e2bc8-993e-48c7-abf8-fea198372f7b,3943043,1,43,Jordan Pickford,3468.0,Goalkeeper,6.0,43.8,Harry Kane,10955.0,79.6,58.2,Goal Kick,74.99547,,Left Foot,England,Away
+60d950a1-b3e0-4246-bb75-2a9cc4c49dc4,3943043,1,46,Jordan Pickford,3468.0,Goalkeeper,6.0,42.8,Bukayo Saka,22084.0,87.4,75.0,Goal Kick,87.53742,Incomplete,Left Foot,England,Away
+85e227de-3884-4d89-891f-ce06abee96da,3943043,2,47,Jordan Pickford,3468.0,Goalkeeper,36.2,27.0,Harry Kane,10955.0,94.7,59.5,,66.92159,Incomplete,Left Foot,England,Away
+6be8911a-b0e3-444c-a852-3afb17c4c27f,3943043,2,48,Jordan Pickford,3468.0,Goalkeeper,5.8,45.8,John Stones,3244.0,7.2,60.6,Goal Kick,14.866069,,Left Foot,England,Away
+d4487bbd-ae7a-4ab8-b126-dd37052a8f24,3943043,2,49,Jordan Pickford,3468.0,Goalkeeper,14.2,31.5,Harry Kane,10955.0,64.5,28.1,,50.41478,Incomplete,Left Foot,England,Away
+db3d0bb9-c98e-4e5b-b09d-e9859e5deec6,3943043,2,55,Jordan Pickford,3468.0,Goalkeeper,6.7,43.5,Bukayo Saka,22084.0,50.9,68.4,Goal Kick,50.731155,,Left Foot,England,Away
+d723840b-18e3-4ca3-811a-241f471dfbef,3943043,2,56,Jordan Pickford,3468.0,Goalkeeper,24.5,29.8,Marc Guehi,34526.0,35.9,12.6,,20.634922,,Left Foot,England,Away
+e9f7e336-0993-4ea6-9fe2-45ae224ed528,3943043,2,56,Jordan Pickford,3468.0,Goalkeeper,17.2,31.8,John Stones,3244.0,25.3,54.9,,24.478971,,Left Foot,England,Away
+04950e14-4af1-49f7-8812-4aa5a2fdf9a6,3943043,2,57,Jordan Pickford,3468.0,Goalkeeper,22.0,41.6,Kyle Walker,3205.0,28.6,50.7,,11.241441,,Left Foot,England,Away
+ebec9416-0865-4c08-9f3d-366f0b5f1b94,3943043,2,57,Jordan Pickford,3468.0,Goalkeeper,15.0,42.9,John Stones,3244.0,17.2,35.2,,8.008121,,Left Foot,England,Away
+cfb15fe2-3cc5-4156-b80f-c2c6cce9ef19,3943043,2,59,Jordan Pickford,3468.0,Goalkeeper,11.7,45.6,John Stones,3244.0,40.1,54.0,,29.61621,,Keeper Arm,England,Away
+07ff5fd1-61da-4f41-b51c-5c1da0b1fbc7,3943043,2,62,Jordan Pickford,3468.0,Goalkeeper,31.1,41.0,Phil Foden,4354.0,116.1,67.4,,89.005394,,Left Foot,England,Away
+c888ea37-532b-40c9-9fbf-ec2467c9e60c,3943043,2,65,Jordan Pickford,3468.0,Goalkeeper,29.0,25.6,,,78.1,63.4,,61.96491,Incomplete,Left Foot,England,Away
+ca932bf5-fc85-4b03-a16b-028619b492dc,3943043,2,67,Jordan Pickford,3468.0,Goalkeeper,4.7,41.8,Kyle Walker,3205.0,21.9,75.1,Goal Kick,37.47973,,Left Foot,England,Away
+ee3965c5-7ea2-4405-9d33-3bf4bcd89538,3943043,2,69,Jordan Pickford,3468.0,Goalkeeper,6.7,40.9,Ollie Watkins,4760.0,85.8,29.3,Goal Kick,79.946045,Incomplete,Left Foot,England,Away
+e601e1af-bb80-44be-8b2a-2bdf4998eb7f,3943043,2,71,Jordan Pickford,3468.0,Goalkeeper,14.8,48.8,Jude Bellingham,30714.0,43.7,56.6,,29.934093,,Keeper Arm,England,Away
+313511a6-761f-4f2b-90e1-9fdddb679740,3943043,2,73,Jordan Pickford,3468.0,Goalkeeper,21.2,26.2,Luke Shaw,3382.0,72.9,15.1,,52.878162,Incomplete,Left Foot,England,Away
+394664bf-fc81-473c-9a41-f76e9e97f4ad,3943043,2,75,Jordan Pickford,3468.0,Goalkeeper,45.4,33.1,Kyle Walker,3205.0,120.0,59.9,,79.2679,Out,Left Foot,England,Away
+d4877a22-6e3a-49d5-9e4a-01b54ecdaa88,3943043,2,79,Jordan Pickford,3468.0,Goalkeeper,7.0,41.0,,,69.8,41.8,Goal Kick,62.805096,Incomplete,Left Foot,England,Away
+8808536f-34ec-4122-aaec-69ec183136ce,3943043,2,85,Jordan Pickford,3468.0,Goalkeeper,14.4,41.6,Kyle Walker,3205.0,30.3,62.1,,25.9434,,Keeper Arm,England,Away
+3ba144a2-0325-46f3-bb99-a0287e7c3229,3943043,2,85,Jordan Pickford,3468.0,Goalkeeper,14.7,40.6,Marc Guehi,34526.0,25.4,17.4,,25.548582,,Left Foot,England,Away
+08e464ed-c5a7-4ea1-a2af-7e1d82bcc038,3943043,2,87,Jordan Pickford,3468.0,Goalkeeper,35.1,39.8,Jude Bellingham,30714.0,72.9,59.9,,42.8118,,Left Foot,England,Away
+ddaab3a2-7082-4878-ab0d-b0a035968d6e,3943043,2,90,Jordan Pickford,3468.0,Goalkeeper,15.4,24.8,Ivan Toney,3834.0,85.1,0.9,,73.683784,Out,Left Foot,England,Away
+f582d0f3-ba5b-41ba-b9b2-ef8462f0d650,3943043,2,90,Jordan Pickford,3468.0,Goalkeeper,7.0,45.2,,,80.1,54.1,Goal Kick,73.6398,Incomplete,Left Foot,England,Away
+5d909b16-f11b-4d1c-8657-7eb5421ed102,3943043,2,92,Jordan Pickford,3468.0,Goalkeeper,57.5,36.0,Ivan Toney,3834.0,105.8,59.0,Free Kick,53.496635,Incomplete,Left Foot,England,Away

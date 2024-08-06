@@ -1,0 +1,124 @@
+id,match_id,period,minute,player,player_id,position,period,location_x,location_y,pass_recipient,pass_recipient_id,pass_end_location_x,pass_end_location_y,pass_type,pass_cross,shot_key_pass_id,pass_height,pass_length,pass_outcome,pass_goal_assist,pass_shot_assist,team,home_away,pass_success
+bd7a4187-f3ad-4f5b-a85c-e36ddeff8058,3943043,1,0,Álvaro Borja Morata Martín,3477.0,Center Forward,1,61.9,67.1,Lamine Yamal Nasraoui Ebana,316046.0,65.1,66.9,Recovery,,,Ground Pass,3.206244,Incomplete,,,Spain,home,incomplete
+4c1ea3ef-a760-42f0-8294-18e2a78b7dd0,3943043,1,2,Álvaro Borja Morata Martín,3477.0,Center Forward,1,58.4,74.2,Lamine Yamal Nasraoui Ebana,316046.0,72.0,71.1,,,,High Pass,13.948835,Incomplete,,,Spain,home,incomplete
+11c7481c-4526-414f-93c1-d7435bc5bab8,3943043,1,2,Declan Rice,3943.0,Left Defensive Midfield,1,55.4,8.3,Jude Bellingham,30714.0,86.4,13.4,,,,High Pass,31.416716,Incomplete,,,England,away,incomplete
+a56970c1-40b7-424a-95f2-9f9dd1449466,3943043,1,3,Álvaro Borja Morata Martín,3477.0,Center Forward,1,69.2,69.5,,,72.7,69.8,,,,Ground Pass,3.5128336,Incomplete,,,Spain,home,incomplete
+c4709aef-8bd9-46a5-a125-de05469a6267,3943043,1,3,Kyle Walker,3205.0,Right Back,1,9.2,72.5,Harry Kane,10955.0,58.5,53.6,,,,High Pass,52.798676,Incomplete,,,England,away,incomplete
+6c550db8-487b-4210-984f-4d94931aee11,3943043,1,3,Lamine Yamal Nasraoui Ebana,316046.0,Right Wing,1,78.4,71.3,Daniel Carvajal Ramos,5721.0,84.6,73.8,,,,Ground Pass,6.685058,Incomplete,,,Spain,home,incomplete
+1f900d7c-eb9a-4130-8368-7ec4c4fd98aa,3943043,1,4,Daniel Olmo Carvajal,16532.0,Center Attacking Midfield,1,91.4,68.5,Álvaro Borja Morata Martín,3477.0,111.6,39.3,,True,,High Pass,35.506054,Incomplete,,,Spain,home,incomplete
+3d00c9d5-56c4-4ef5-a13c-5d7f153c2b23,3943043,1,4,Nicholas Williams Arthuer,68574.0,Left Wing,1,100.7,10.4,,,111.5,35.3,,True,,Low Pass,27.141296,Incomplete,,,Spain,home,incomplete
+107debb5-6e10-4e79-a8d1-689ad8fb2cbb,3943043,1,4,Nicholas Williams Arthuer,68574.0,Left Wing,1,120.0,0.1,Daniel Carvajal Ramos,5721.0,116.3,34.4,Corner,,,High Pass,34.498985,Incomplete,,,Spain,home,incomplete
+75768321-f4d7-432a-9ab5-ca09f78bfe99,3943043,1,4,Marc Cucurella Saseta,17620.0,Left Back,1,77.5,35.1,,,97.3,34.7,Recovery,,,High Pass,19.80404,Incomplete,,,Spain,home,incomplete
+9cfa3dcd-aa58-45f7-a45c-0393d2d80bb9,3943043,1,4,Bukayo Saka,22084.0,Right Wing,1,33.6,61.5,Phil Foden,4354.0,35.0,61.3,,,,Low Pass,1.4142135,Incomplete,,,England,away,incomplete
+611702d3-c859-4c4c-8ccf-04080599c6c4,3943043,1,7,Fabián Ruiz Peña,6655.0,Left Defensive Midfield,1,106.5,21.4,Nicholas Williams Arthuer,68574.0,100.5,22.6,,,,Ground Pass,6.1188235,Incomplete,,,Spain,home,incomplete
+d9f5651f-0e12-40fc-b26e-5bfaf925552f,3943043,1,7,Daniel Olmo Carvajal,16532.0,Center Attacking Midfield,1,100.7,30.5,,,104.7,26.7,,,,Ground Pass,5.517246,Incomplete,,,Spain,home,incomplete
+942ceeb4-883f-4963-a865-02b52c7200ad,3943043,1,7,Declan Rice,3943.0,Left Defensive Midfield,1,3.0,73.6,,,5.1,73.6,,,,Low Pass,2.1,Incomplete,,,England,away,incomplete
+6aa22dc4-8797-45cb-97d9-9d225a0eed3e,3943043,1,7,Harry Kane,10955.0,Center Forward,1,45.2,69.3,Phil Foden,4354.0,56.7,65.2,,,,Low Pass,12.209013,Incomplete,,,England,away,incomplete
+b505f020-d619-4689-a979-a0e029112d96,3943043,1,8,Álvaro Borja Morata Martín,3477.0,Center Forward,1,84.4,25.2,Daniel Olmo Carvajal,16532.0,99.6,25.5,,,,Ground Pass,15.20296,Incomplete,,,Spain,home,incomplete
+82e926d5-8b6d-4823-b15b-7b148dc8365d,3943043,1,8,Fabián Ruiz Peña,6655.0,Left Defensive Midfield,1,63.0,17.1,Álvaro Borja Morata Martín,3477.0,74.0,29.8,,,,Ground Pass,16.801489,Incomplete,,,Spain,home,incomplete
+c6a04893-55f4-41b5-b3d8-91cd222ebac3,3943043,1,8,Declan Rice,3943.0,Left Defensive Midfield,1,56.9,49.1,Harry Kane,10955.0,58.2,52.7,,,,Ground Pass,3.8275318,Incomplete,,,England,away,incomplete
+dd822c77-ca37-4192-9fee-bf6ae9d6d52a,3943043,1,9,Jordan Pickford,3468.0,Goalkeeper,1,25.6,21.6,Luke Shaw,3382.0,87.0,7.1,,,,High Pass,63.088905,Incomplete,,,England,away,incomplete
+f4149d99-3e7d-4ec7-8f12-f418456c36ac,3943043,1,9,Daniel Carvajal Ramos,5721.0,Right Back,1,33.1,73.0,,,50.8,62.2,Recovery,,,Low Pass,20.734753,Incomplete,,,Spain,home,incomplete
+1c439ea1-a83c-45d5-a943-090a2b7d1da9,3943043,1,10,Daniel Carvajal Ramos,5721.0,Right Back,1,21.1,74.8,Nicholas Williams Arthuer,68574.0,63.2,40.8,,,,High Pass,54.114784,Incomplete,,,Spain,home,incomplete
+3b896fd1-c730-44c6-9ea7-b5d4e4cacffd,3943043,1,11,Kyle Walker,3205.0,Right Back,1,56.9,39.3,Kobbie Mainoo,99174.0,69.9,53.8,Recovery,,,Low Pass,19.474342,Incomplete,,,England,away,incomplete
+629a9dc4-3301-4835-abd0-d6f602e2e8d6,3943043,1,13,Jordan Pickford,3468.0,Goalkeeper,1,6.0,42.4,,,109.4,36.8,Goal Kick,,,High Pass,103.55154,Incomplete,,,England,away,incomplete
+877b6bed-f897-4121-b50e-4dce5918b84b,3943043,1,13,Nicholas Williams Arthuer,68574.0,Left Wing,1,106.7,11.3,Álvaro Borja Morata Martín,3477.0,107.7,37.7,,True,,High Pass,26.418932,Incomplete,,,Spain,home,incomplete
+76b74df6-f077-42f6-a1ff-7eb38dc9a592,3943043,1,14,Jude Bellingham,30714.0,Left Wing,1,55.8,3.0,Phil Foden,4354.0,57.4,4.3,,,,Ground Pass,2.0615528,Incomplete,,,England,away,incomplete
+1025b0c4-5978-4a99-a758-40aedaf1c079,3943043,1,14,Kyle Walker,3205.0,Right Back,1,117.1,56.5,Phil Foden,4354.0,116.1,45.0,,True,,Low Pass,11.543396,Incomplete,,,England,away,incomplete
+2f30d168-65fd-40ac-a01e-be72463fc750,3943043,1,15,Phil Foden,4354.0,Center Attacking Midfield,1,120.0,80.0,,,112.3,45.9,Corner,,,Low Pass,34.958546,Incomplete,,,England,away,incomplete
+7d55992b-4dee-4df0-b006-b5d637a81bcf,3943043,1,16,Luke Shaw,3382.0,Left Back,1,106.1,9.0,Phil Foden,4354.0,106.8,12.6,,,,Low Pass,3.6674242,Incomplete,,,England,away,incomplete
+684dff33-44d5-4ac7-a49f-03615fa3ee2a,3943043,1,16,Álvaro Borja Morata Martín,3477.0,Center Forward,1,27.6,55.2,,,30.3,53.4,,,,Low Pass,3.244996,Incomplete,,,Spain,home,incomplete
+69801875-96e2-4e81-8aa9-8b9f9aa19d88,3943043,1,16,Rodrigo Hernández Cascante,6765.0,Right Defensive Midfield,1,31.7,52.6,,,58.8,47.7,,,,High Pass,27.539427,Incomplete,,,Spain,home,incomplete
+afbb8179-44de-46ec-84b5-4592fb2e0fe3,3943043,1,17,Lamine Yamal Nasraoui Ebana,316046.0,Right Wing,1,39.8,75.0,,,45.3,74.6,,,,Low Pass,5.5145264,Incomplete,,,Spain,home,incomplete
+5102c794-b247-4630-86b2-651874222579,3943043,1,18,Daniel Olmo Carvajal,16532.0,Center Attacking Midfield,1,92.8,22.4,Álvaro Borja Morata Martín,3477.0,101.8,40.6,,,,Ground Pass,20.303694,Incomplete,,,Spain,home,incomplete
+aba3b5da-4a10-469a-aed3-15d5cf2eee51,3943043,1,18,Daniel Carvajal Ramos,5721.0,Right Back,1,88.3,69.5,,,116.1,40.6,,True,,High Pass,40.1005,Incomplete,,,Spain,home,incomplete
+36cb53b8-b410-411a-86df-061212128c37,3943043,1,19,Fabián Ruiz Peña,6655.0,Left Defensive Midfield,1,54.9,55.2,,,63.5,44.9,,,,Low Pass,13.418271,Incomplete,,,Spain,home,incomplete
+88bb6962-feb3-487b-8161-f27cdc0c1e27,3943043,1,20,Fabián Ruiz Peña,6655.0,Left Defensive Midfield,1,91.8,40.4,Daniel Olmo Carvajal,16532.0,97.9,30.5,,,,Ground Pass,11.628413,Incomplete,,,Spain,home,incomplete
+34f5259f-7243-45f2-96e1-0c5e8f83cf95,3943043,1,21,Jordan Pickford,3468.0,Goalkeeper,1,20.1,72.5,Harry Kane,10955.0,88.0,50.3,Free Kick,,,High Pass,71.437035,Incomplete,,,England,away,incomplete
+7a8e8f78-e1e0-45a3-bde8-56a83480d23e,3943043,1,21,Aymeric Laporte,4353.0,Left Center Back,1,32.1,29.8,Daniel Olmo Carvajal,16532.0,43.7,30.2,Recovery,,,High Pass,11.6068945,Incomplete,,,Spain,home,incomplete
+7e131343-a891-4083-9ba2-2e83fcb95c32,3943043,1,21,Declan Rice,3943.0,Left Defensive Midfield,1,76.4,49.9,Harry Kane,10955.0,83.4,47.6,Recovery,,,High Pass,7.368175,Incomplete,,,England,away,incomplete
+9e7ce392-7412-48b8-bd6f-2b60bb3115e1,3943043,1,21,Rodrigo Hernández Cascante,6765.0,Right Defensive Midfield,1,36.7,32.5,Álvaro Borja Morata Martín,3477.0,50.8,26.7,Recovery,,,High Pass,15.246311,Incomplete,,,Spain,home,incomplete
+69d80a39-0d4e-43e5-bcb9-6f668e325d00,3943043,1,21,John Stones,3244.0,Right Center Back,1,69.3,53.4,Phil Foden,4354.0,86.6,45.8,Recovery,,,High Pass,18.895767,Incomplete,,,England,away,incomplete
+403101dd-7f06-44ba-aed0-39e8daff4bb9,3943043,1,21,Robin Aime Robert Le Normand,22128.0,Right Center Back,1,33.5,34.3,Daniel Olmo Carvajal,16532.0,45.1,24.7,Recovery,,,High Pass,15.057224,Incomplete,,,Spain,home,incomplete
+34ca50e5-7a74-4fab-852d-1c1569c68c19,3943043,1,22,Declan Rice,3943.0,Left Defensive Midfield,1,75.0,55.4,Phil Foden,4354.0,90.4,52.7,Recovery,,,High Pass,15.634897,Incomplete,,,England,away,incomplete
+3c837f6b-c034-4ba7-937f-2b8a55dbd4e4,3943043,1,22,Lamine Yamal Nasraoui Ebana,316046.0,Right Wing,1,83.9,63.2,Daniel Olmo Carvajal,16532.0,111.8,37.3,,,,High Pass,38.068623,Incomplete,,,Spain,home,incomplete
+3b588f25-6cd7-4c7e-a878-006be98782de,3943043,1,22,Phil Foden,4354.0,Center Attacking Midfield,1,40.1,39.3,Declan Rice,3943.0,27.1,29.3,,,,Ground Pass,16.40122,Incomplete,,,England,away,incomplete
+15396892-2fd3-47df-aa0f-1e47f46d79a8,3943043,1,22,Lamine Yamal Nasraoui Ebana,316046.0,Right Wing,1,110.7,58.5,,,111.6,56.3,,,,Ground Pass,2.376973,Incomplete,,,Spain,home,incomplete
+71399bf8-f1e2-4549-aab4-0a0b2ec617e1,3943043,1,23,Nicholas Williams Arthuer,68574.0,Left Wing,1,104.5,61.0,Aymeric Laporte,4353.0,111.6,39.3,,True,,High Pass,22.831995,Incomplete,,,Spain,home,incomplete
+ba518fb5-0ce1-4cda-a8e6-29fc3eb69761,3943043,1,24,John Stones,3244.0,Right Center Back,1,53.2,25.3,Bukayo Saka,22084.0,94.9,72.8,Free Kick,,,High Pass,63.20712,Incomplete,,,England,away,incomplete
+62387c1b-d2a2-4ed6-b225-f2ea658e5464,3943043,1,24,Harry Kane,10955.0,Center Forward,1,91.3,46.3,Phil Foden,4354.0,92.3,47.6,,,,Ground Pass,1.6401219,Incomplete,,,England,away,incomplete
+2e07ea16-f77a-4acc-b56e-dda315d9b9f2,3943043,1,26,Nicholas Williams Arthuer,68574.0,Left Wing,1,77.5,2.7,,,78.6,4.9,,,,Ground Pass,2.4596748,Incomplete,,,Spain,home,incomplete
+fe0f4758-067e-49e1-8f54-174584afe0af,3943043,1,27,Fabián Ruiz Peña,6655.0,Left Defensive Midfield,1,91.4,42.0,Daniel Carvajal Ramos,5721.0,96.3,45.1,,,,Low Pass,5.7982755,Incomplete,,,Spain,home,incomplete
+1d169030-7b0c-4bf5-a36f-18c2feefd537,3943043,1,28,Jordan Pickford,3468.0,Goalkeeper,1,22.2,27.3,Jude Bellingham,30714.0,87.0,16.9,,,,High Pass,65.629265,Incomplete,,,England,away,incomplete
+149dd9fc-753d-4ff2-9e30-326d2af89796,3943043,1,29,Daniel Carvajal Ramos,5721.0,Right Back,1,27.2,80.0,Álvaro Borja Morata Martín,3477.0,37.6,73.3,Throw-in,,,Low Pass,12.371338,Incomplete,,,Spain,home,incomplete
+526d1caf-e4d3-4e3a-9de4-eec417744baf,3943043,1,29,Jude Bellingham,30714.0,Left Wing,1,91.3,8.5,Phil Foden,4354.0,98.8,8.5,,,,Ground Pass,7.5,Incomplete,,,England,away,incomplete
+866b00b3-43fc-4c7a-88c4-6038a543d51e,3943043,1,29,Unai Simón Mendibil,11748.0,Goalkeeper,1,2.9,48.6,,,56.6,52.2,,,,High Pass,53.820534,Incomplete,,,Spain,home,incomplete
+27487ddd-ee4a-4aff-a760-120e1c41380e,3943043,1,29,Harry Kane,10955.0,Center Forward,1,84.9,36.6,Bukayo Saka,22084.0,85.8,38.7,,,,Low Pass,2.2847319,Incomplete,,,England,away,incomplete
+06e8aee8-e844-4c0c-a5b5-283b5d03a18d,3943043,1,29,Álvaro Borja Morata Martín,3477.0,Center Forward,1,77.8,37.1,Daniel Olmo Carvajal,16532.0,89.2,38.9,,,,Ground Pass,11.54123,Incomplete,,,Spain,home,incomplete
+4c2a7bf5-deff-40c2-84fa-3edace7d98ac,3943043,1,29,Kyle Walker,3205.0,Right Back,1,9.9,76.1,Harry Kane,10955.0,48.3,59.9,,,,High Pass,41.677334,Incomplete,,,England,away,incomplete
+8faaa356-580f-4c39-b965-feaad5d02333,3943043,1,34,Lamine Yamal Nasraoui Ebana,316046.0,Right Wing,1,120.0,80.0,,,111.8,34.3,Corner,,,High Pass,46.42984,Incomplete,,,Spain,home,incomplete
+c4b448bd-16ab-42b3-9902-6faf3ca0296a,3943043,1,36,Harry Kane,10955.0,Center Forward,1,75.0,66.6,Phil Foden,4354.0,82.3,64.6,,,,High Pass,7.569016,Incomplete,,,England,away,incomplete
+742bd957-4ef0-4718-bc68-f43c813b781b,3943043,1,37,Lamine Yamal Nasraoui Ebana,316046.0,Right Wing,1,104.9,57.9,,,105.3,56.7,,,,Ground Pass,1.264911,Incomplete,,,Spain,home,incomplete
+4b01395f-f73a-44c2-963c-fed4a8f5a869,3943043,1,37,Daniel Carvajal Ramos,5721.0,Right Back,1,91.0,73.8,,,104.0,58.1,,,,High Pass,20.383572,Incomplete,,,Spain,home,incomplete
+0d579761-03a6-4355-9e60-f0c8e116f333,3943043,1,37,Lamine Yamal Nasraoui Ebana,316046.0,Right Wing,1,104.5,72.8,,,106.9,57.9,,,,Low Pass,15.092051,Incomplete,,,Spain,home,incomplete
+b8ac2e85-712e-4e1c-a011-0af79a83c441,3943043,1,38,Jude Bellingham,30714.0,Left Wing,1,63.7,37.9,Phil Foden,4354.0,75.2,45.4,,,,High Pass,13.72953,Incomplete,,,England,away,incomplete
+80ee6125-8e50-447f-9552-f449cbc2fa71,3943043,1,39,John Stones,3244.0,Right Center Back,1,90.9,27.1,Harry Kane,10955.0,94.0,30.2,,,,Low Pass,4.384062,Incomplete,,,England,away,incomplete
+33e68dae-9eec-4853-809f-94e36ac2412f,3943043,1,40,Daniel Carvajal Ramos,5721.0,Right Back,1,84.4,75.0,Daniel Olmo Carvajal,16532.0,89.2,74.4,,,,Ground Pass,4.8373547,Incomplete,,,Spain,home,incomplete
+8e50cace-73f4-44fe-8ec5-fd69d0a283e9,3943043,1,40,Lamine Yamal Nasraoui Ebana,316046.0,Right Wing,1,85.5,66.2,Daniel Olmo Carvajal,16532.0,92.2,57.4,,,,Ground Pass,11.060289,Incomplete,,,Spain,home,incomplete
+357c93c4-0dcf-47c4-8669-356054c54d90,3943043,1,40,Declan Rice,3943.0,Left Defensive Midfield,1,27.9,22.7,Phil Foden,4354.0,43.2,20.5,Interception,,,Ground Pass,15.45736,Incomplete,,,England,away,incomplete
+c341797f-7433-4827-b847-ea5b48efc82a,3943043,1,40,Rodrigo Hernández Cascante,6765.0,Right Defensive Midfield,1,83.0,53.2,Daniel Olmo Carvajal,16532.0,85.3,53.9,,,,Ground Pass,2.4041631,Incomplete,,,Spain,home,incomplete
+1930bf39-95f7-402b-88cb-249f5db4ba25,3943043,1,40,Jude Bellingham,30714.0,Left Wing,1,83.3,2.4,Harry Kane,10955.0,84.7,12.6,,,,Ground Pass,10.29563,Incomplete,,,England,away,incomplete
+c8976dd8-a60a-4ab3-a2d4-8e0344eb4a4c,3943043,1,41,Kobbie Mainoo,99174.0,Right Defensive Midfield,1,85.8,53.0,Harry Kane,10955.0,101.5,36.1,,,,Ground Pass,23.067293,Incomplete,,,England,away,incomplete
+5733c146-42c5-4304-a8d1-e5cb128bc40c,3943043,1,42,Kobbie Mainoo,99174.0,Right Defensive Midfield,1,51.4,8.6,Phil Foden,4354.0,75.0,16.1,,,,High Pass,24.763077,Incomplete,,,England,away,incomplete
+d4f514ea-66e2-498a-80b8-1ba0567c9e82,3943043,1,42,Nicholas Williams Arthuer,68574.0,Left Wing,1,120.0,0.1,Álvaro Borja Morata Martín,3477.0,114.9,38.7,Corner,,,High Pass,38.93546,Incomplete,,,Spain,home,incomplete
+b69c6439-7e7d-4688-9e92-c028ff45a8ff,3943043,1,43,Harry Kane,10955.0,Center Forward,1,79.6,58.0,Bukayo Saka,22084.0,92.3,55.4,,,,Low Pass,12.96341,Incomplete,,,England,away,incomplete
+ce9d3bc7-b7fc-4eae-856c-5f748e2fc3c7,3943043,1,45,Declan Rice,3943.0,Left Defensive Midfield,1,91.1,62.7,Harry Kane,10955.0,111.1,37.4,Free Kick,True,,High Pass,32.250427,Incomplete,,,England,away,incomplete
+60d950a1-b3e0-4246-bb75-2a9cc4c49dc4,3943043,1,46,Jordan Pickford,3468.0,Goalkeeper,1,6.0,42.8,Bukayo Saka,22084.0,87.4,75.0,Goal Kick,,,High Pass,87.53742,Incomplete,,,England,away,incomplete
+5a9adac4-b227-4da9-9275-c60b28b09c9c,3943043,2,45,Unai Simón Mendibil,11748.0,Goalkeeper,2,10.7,33.8,Álvaro Borja Morata Martín,3477.0,56.8,24.7,,,,High Pass,46.989574,Incomplete,,,Spain,home,incomplete
+28d1d1b6-1bea-4c43-aa0a-71ac15b4b676,3943043,2,45,Marc Guehi,34526.0,Left Center Back,2,63.3,55.4,Kobbie Mainoo,99174.0,67.2,50.4,Recovery,,,High Pass,6.3411355,Incomplete,,,England,away,incomplete
+aeffffe2-520e-48d2-8a00-585eddf16cd3,3943043,2,45,Nicholas Williams Arthuer,68574.0,Left Wing,2,55.6,1.1,Marc Cucurella Saseta,17620.0,53.2,1.3,,,,Ground Pass,2.408319,Incomplete,,,Spain,home,incomplete
+85e227de-3884-4d89-891f-ce06abee96da,3943043,2,47,Jordan Pickford,3468.0,Goalkeeper,2,36.2,27.0,Harry Kane,10955.0,94.7,59.5,,,,High Pass,66.92159,Incomplete,,,England,away,incomplete
+d4487bbd-ae7a-4ab8-b126-dd37052a8f24,3943043,2,49,Jordan Pickford,3468.0,Goalkeeper,2,14.2,31.5,Harry Kane,10955.0,64.5,28.1,,,,High Pass,50.41478,Incomplete,,,England,away,incomplete
+1a668778-3913-4d4e-a00e-64ace15951db,3943043,2,49,Jude Bellingham,30714.0,Left Wing,2,70.3,4.8,Kobbie Mainoo,99174.0,72.3,5.1,,,,Ground Pass,2.0223749,Incomplete,,,England,away,incomplete
+c40373a0-d082-4a7f-9628-64d80b4c6090,3943043,2,50,Robin Aime Robert Le Normand,22128.0,Right Center Back,2,21.7,61.7,Lamine Yamal Nasraoui Ebana,316046.0,78.1,60.5,,,,High Pass,56.412766,Incomplete,,,Spain,home,incomplete
+54e3e44a-0270-465c-9ea1-718e56094581,3943043,2,51,Daniel Carvajal Ramos,5721.0,Right Back,2,11.2,80.0,Álvaro Borja Morata Martín,3477.0,36.5,72.5,Throw-in,,,High Pass,26.388254,Incomplete,,,Spain,home,incomplete
+5615aea3-8769-49ab-8e76-7ab9ee4bc688,3943043,2,51,Marc Guehi,34526.0,Left Center Back,2,83.6,7.6,Jude Bellingham,30714.0,92.5,13.2,Recovery,,,High Pass,10.515227,Incomplete,,,England,away,incomplete
+98b1d1a7-86ad-4333-813e-2e4442323cf3,3943043,2,54,Daniel Carvajal Ramos,5721.0,Right Back,2,75.1,76.3,Álvaro Borja Morata Martín,3477.0,85.9,66.4,Recovery,,,Low Pass,14.650939,Incomplete,,,Spain,home,incomplete
+ac96b621-56e4-405b-a621-62995ec308dd,3943043,2,54,Declan Rice,3943.0,Left Defensive Midfield,2,34.8,3.1,Jude Bellingham,30714.0,41.7,4.0,,,,Ground Pass,6.958448,Incomplete,,,England,away,incomplete
+23d18e6a-da4d-4b87-a024-ff855d45aab7,3943043,2,55,Declan Rice,3943.0,Left Defensive Midfield,2,5.1,14.8,Phil Foden,4354.0,38.1,25.9,,,,Low Pass,34.816807,Incomplete,,,England,away,incomplete
+a5f524a7-0dc5-4db7-b315-c4634ac48d96,3943043,2,56,Harry Kane,10955.0,Center Forward,2,97.9,33.4,Jude Bellingham,30714.0,105.1,26.3,,,,Ground Pass,10.111875,Incomplete,,,England,away,incomplete
+18e6667e-fad1-4ff3-bdfb-768383dca33e,3943043,2,58,Daniel Olmo Carvajal,16532.0,Center Attacking Midfield,2,89.7,50.2,Álvaro Borja Morata Martín,3477.0,102.9,51.0,,,,Ground Pass,13.22422,Incomplete,,,Spain,home,incomplete
+4ebbed53-8733-4030-9119-69b78850604d,3943043,2,59,Phil Foden,4354.0,Center Attacking Midfield,2,115.6,59.3,Harry Kane,10955.0,115.6,56.8,,,,Low Pass,2.5,Incomplete,,,England,away,incomplete
+6471de7a-3d85-46a0-b934-78fc0c55a58b,3943043,2,62,Phil Foden,4354.0,Center Attacking Midfield,2,99.0,72.3,,,110.0,46.8,Free Kick,True,,High Pass,27.771389,Incomplete,,,England,away,incomplete
+9745f1e7-a98e-44cf-9a95-c98abbd881da,3943043,2,64,Robin Aime Robert Le Normand,22128.0,Right Center Back,2,12.8,65.6,Nicholas Williams Arthuer,68574.0,61.4,55.2,,,,High Pass,49.700302,Incomplete,,,Spain,home,incomplete
+5dfe4d6f-0b61-4d3d-a89b-2ec55b8d950c,3943043,2,65,Unai Simón Mendibil,11748.0,Goalkeeper,2,4.5,39.5,,,65.0,28.5,,,,High Pass,61.49187,Incomplete,,,Spain,home,incomplete
+c888ea37-532b-40c9-9fbf-ec2467c9e60c,3943043,2,65,Jordan Pickford,3468.0,Goalkeeper,2,29.0,25.6,,,78.1,63.4,,,,High Pass,61.96491,Incomplete,,,England,away,incomplete
+8cc6aaba-4a09-4727-ae06-d0723b884211,3943043,2,68,Lamine Yamal Nasraoui Ebana,316046.0,Right Wing,2,91.4,43.8,Nicholas Williams Arthuer,68574.0,108.4,35.6,,,,High Pass,18.874321,Incomplete,,,Spain,home,incomplete
+9e447992-cbf5-489f-93a5-6226988cf875,3943043,2,68,Lamine Yamal Nasraoui Ebana,316046.0,Right Wing,2,120.0,80.0,,,117.3,39.9,Corner,,,High Pass,40.190796,Incomplete,,,Spain,home,incomplete
+c3e7e7d4-a046-4d29-a438-d1ef11b28981,3943043,2,68,Daniel Olmo Carvajal,16532.0,Center Attacking Midfield,2,110.1,14.7,Martín Zubimendi Ibáñez,24921.0,115.9,44.4,,True,,High Pass,30.26103,Incomplete,,,Spain,home,incomplete
+0f6a0617-de3d-4ef7-8c20-f08d78db37d4,3943043,2,69,Martín Zubimendi Ibáñez,24921.0,Right Defensive Midfield,2,116.2,69.7,Robin Aime Robert Le Normand,22128.0,112.9,33.0,,True,,High Pass,36.84807,Incomplete,,,Spain,home,incomplete
+ee3965c5-7ea2-4405-9d33-3bf4bcd89538,3943043,2,69,Jordan Pickford,3468.0,Goalkeeper,2,6.7,40.9,Ollie Watkins,4760.0,85.8,29.3,Goal Kick,,,High Pass,79.946045,Incomplete,,,England,away,incomplete
+2b56f4f6-ba40-43c1-b08b-729e47adc9da,3943043,2,69,Daniel Carvajal Ramos,5721.0,Right Back,2,34.3,50.8,,,32.3,39.9,Recovery,,,Low Pass,11.081967,Incomplete,,,Spain,home,incomplete
+540e7ddf-44b3-435f-a4fe-5dbdf522d835,3943043,2,70,Jude Bellingham,30714.0,Right Defensive Midfield,2,85.1,46.2,Phil Foden,4354.0,93.3,35.9,,,,Ground Pass,13.165485,Incomplete,,,England,away,incomplete
+c1c244bc-458d-455e-b8bc-375427cf4e44,3943043,2,70,Cole Palmer,39461.0,Center Attacking Midfield,2,77.0,69.9,Ollie Watkins,4760.0,93.7,61.8,,,,Ground Pass,18.56071,Incomplete,,,England,away,incomplete
+39563617-6877-476e-860d-b813c674cce3,3943043,2,71,Jude Bellingham,30714.0,Right Defensive Midfield,2,56.1,26.3,Phil Foden,4354.0,65.1,33.2,,,,Ground Pass,11.340635,Incomplete,,,England,away,incomplete
+313511a6-761f-4f2b-90e1-9fdddb679740,3943043,2,73,Jordan Pickford,3468.0,Goalkeeper,2,21.2,26.2,Luke Shaw,3382.0,72.9,15.1,,,,High Pass,52.878162,Incomplete,,,England,away,incomplete
+01273e7f-e772-4ca0-9b4e-8b3e3589f73c,3943043,2,74,Martín Zubimendi Ibáñez,24921.0,Right Defensive Midfield,2,49.2,76.3,Lamine Yamal Nasraoui Ebana,316046.0,51.2,76.3,,,,Ground Pass,2.0,Incomplete,,,Spain,home,incomplete
+243cca9a-c2ca-47aa-9328-66569b02175b,3943043,2,74,Bukayo Saka,22084.0,Right Wing,2,110.8,58.8,Jude Bellingham,30714.0,112.0,45.6,,True,,Ground Pass,13.254434,Incomplete,,,England,away,incomplete
+30618ef7-b139-469f-9bab-1c3674ec437e,3943043,2,77,Nicholas Williams Arthuer,68574.0,Left Wing,2,116.2,12.2,Mikel Oyarzabal Ugarte,6685.0,113.9,33.6,,True,,High Pass,21.523243,Incomplete,,,Spain,home,incomplete
+25606e94-5d6d-4f07-b2a5-a95d1542034e,3943043,2,78,Nicholas Williams Arthuer,68574.0,Left Wing,2,120.0,0.1,,,112.1,35.3,Corner,,,High Pass,36.075615,Incomplete,,,Spain,home,incomplete
+76cf93bc-4749-427f-9c3b-c1dcb69f8deb,3943043,2,78,Fabián Ruiz Peña,6655.0,Left Defensive Midfield,2,103.4,55.8,,,104.8,45.6,,,,Low Pass,10.29563,Incomplete,,,Spain,home,incomplete
+d4877a22-6e3a-49d5-9e4a-01b54ecdaa88,3943043,2,79,Jordan Pickford,3468.0,Goalkeeper,2,7.0,41.0,,,69.8,41.8,Goal Kick,,,High Pass,62.805096,Incomplete,,,England,away,incomplete
+9e3ea95f-24de-4edb-b248-a9f60a6589e0,3943043,2,80,Fabián Ruiz Peña,6655.0,Left Defensive Midfield,2,68.7,61.9,Daniel Carvajal Ramos,5721.0,70.3,63.1,,,,Ground Pass,2.0,Incomplete,,,Spain,home,incomplete
+b57e7bb4-a85f-4f4d-a7ae-6a6a2741495b,3943043,2,82,John Stones,3244.0,Right Center Back,2,12.2,66.0,Ollie Watkins,4760.0,93.3,48.8,,,,High Pass,82.90386,Incomplete,,,England,away,incomplete
+d9afacc5-7b61-4e2e-a593-be35f72ace40,3943043,2,83,Daniel Carvajal Ramos,5721.0,Right Back,2,114.3,60.3,,,113.2,58.6,,,,Ground Pass,2.0248456,Incomplete,,,Spain,home,incomplete
+83423bd8-51ce-4afd-8e4b-0c1224ab24bc,3943043,2,84,Lamine Yamal Nasraoui Ebana,316046.0,Right Wing,2,120.0,80.0,,,116.1,39.9,Corner,,,High Pass,40.289204,Incomplete,,,Spain,home,incomplete
+9d683aa0-4db6-49cb-aff7-8d66e3d39d6e,3943043,2,84,Lamine Yamal Nasraoui Ebana,316046.0,Right Wing,2,117.9,57.4,Mikel Oyarzabal Ugarte,6685.0,114.5,41.1,,True,,High Pass,16.650826,Incomplete,,,Spain,home,incomplete
+b93fc11b-57cc-4790-acba-f8c5e9755aa6,3943043,2,87,Jude Bellingham,30714.0,Right Defensive Midfield,2,73.1,60.1,Ollie Watkins,4760.0,75.3,59.6,,,,Low Pass,2.2561028,Incomplete,,,England,away,incomplete
+7941cfb8-aaad-4df9-9c58-4bafaf048aaf,3943043,2,87,Martín Zubimendi Ibáñez,24921.0,Right Defensive Midfield,2,34.3,24.5,Fabián Ruiz Peña,6655.0,38.7,26.7,Recovery,,,Low Pass,4.9193497,Incomplete,,,Spain,home,incomplete
+f582d0f3-ba5b-41ba-b9b2-ef8462f0d650,3943043,2,90,Jordan Pickford,3468.0,Goalkeeper,2,7.0,45.2,,,80.1,54.1,Goal Kick,,,High Pass,73.6398,Incomplete,,,England,away,incomplete
+e22ee4ab-0068-4290-8e2a-c8ced47b1af0,3943043,2,90,Bukayo Saka,22084.0,Right Center Midfield,2,85.3,72.3,Ollie Watkins,4760.0,97.8,58.8,Recovery,,,High Pass,18.398369,Incomplete,,,England,away,incomplete
+d993c1f2-93a4-4ebc-a2e3-f1d2974ff165,3943043,2,91,Unai Simón Mendibil,11748.0,Goalkeeper,2,26.1,21.1,Mikel Merino Zazón,3042.0,81.1,32.0,Free Kick,,,High Pass,56.069687,Incomplete,,,Spain,home,incomplete
+cde5f7b3-d507-4d3a-94cd-6c1b0acd4de2,3943043,2,92,Declan Rice,3943.0,Center Defensive Midfield,2,46.2,37.7,Ivan Toney,3834.0,72.2,52.4,,,,High Pass,29.867876,Incomplete,,,England,away,incomplete
+e16d7759-4a9a-466e-ba16-687353efebec,3943043,2,92,Aymeric Laporte,4353.0,Left Center Back,2,47.9,27.7,,,70.9,24.1,Recovery,,,High Pass,23.280035,Incomplete,,,Spain,home,incomplete
+5d909b16-f11b-4d1c-8657-7eb5421ed102,3943043,2,92,Jordan Pickford,3468.0,Goalkeeper,2,57.5,36.0,Ivan Toney,3834.0,105.8,59.0,Free Kick,,,High Pass,53.496635,Incomplete,,,England,away,incomplete

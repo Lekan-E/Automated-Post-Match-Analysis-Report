@@ -1,0 +1,20 @@
+id,minute,player,player_id,location_x,location_y,period,team,home_away
+8d505287-a875-41d9-997b-5c9c8b32cca9,9,Rodrigo Hernández Cascante,6765.0,47.5,69.5,1,Spain,home
+75af291a-dc50-4710-9bcd-081cb4314744,10,Marc Guehi,34526.0,106.4,46.5,1,England,away
+d1da193e-ab66-45cc-a2ff-ae61dcdb0fe4,19,Declan Rice,3943.0,56.0,39.5,1,England,away
+fe4ee78d-4e23-46f6-9fcc-4d144683b20a,20,Bukayo Saka,22084.0,39.9,73.0,1,England,away
+dc47c881-c6d1-49e5-ae13-e871d3ec8302,21,Marc Cucurella Saseta,17620.0,98.3,6.5,1,Spain,home
+9e80ec67-7a62-4ce5-8807-db5b0f55e025,23,Daniel Carvajal Ramos,5721.0,76.3,59.1,1,Spain,home
+fb538032-230d-43b0-a57b-96d52747a583,24,Harry Kane,10955.0,91.8,50.1,1,England,away
+0117c288-22a0-47d9-be1c-b55c9f9a3601,29,Daniel Olmo Carvajal,16532.0,86.5,37.5,1,Spain,home
+ed8f85a2-4894-4e2e-a985-14a9d990f506,31,Rodrigo Hernández Cascante,6765.0,63.7,72.4,1,Spain,home
+eddca033-e53d-46e5-909b-774b19937875,44,Nicholas Williams Arthuer,68574.0,28.8,18.8,1,Spain,home
+379b81f7-13a7-4a85-8ba2-7bbb30da96ef,52,John Stones,3244.0,48.2,43.2,2,England,away
+091176c8-8f68-4425-8232-b634faa68359,55,Marc Cucurella Saseta,17620.0,75.5,10.4,2,Spain,home
+097dc9cf-def4-4f0a-91da-b3b6637a626c,61,Nicholas Williams Arthuer,68574.0,20.6,5.5,2,Spain,home
+5ab61490-ff9d-4ae4-af8f-201556a30bbb,71,Marc Cucurella Saseta,17620.0,76.1,22.0,2,Spain,home
+e37a110e-5595-46a2-96fd-2822c62bf496,90,Ollie Watkins,4760.0,97.4,59.8,2,England,away
+5e0ffd8e-4e1f-4422-8a63-3db1d8db7d37,92,Nicholas Williams Arthuer,68574.0,79.4,8.8,2,Spain,home
+2228489b-41e4-4461-b3e8-824db8731553,92,Mikel Merino Zazón,3042.0,62.2,45.5,2,Spain,home
+8eab51fc-0835-4fdb-8fe2-9c38fc38c46b,92,Bukayo Saka,22084.0,105.5,77.7,2,England,away
+9be6bb15-7db5-483e-aee7-44430f07c38f,93,Mikel Merino Zazón,3042.0,98.4,26.0,2,Spain,home

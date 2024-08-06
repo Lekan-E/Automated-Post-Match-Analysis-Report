@@ -1,0 +1,26 @@
+id,match_id,minute,player,player_id,shot_body_part,shot_outcome,shot_statsbomb_xg,location_x,location_y,shot_end_location_x,shot_end_location_y,shot_end_location_z,team,team_id,home_away
+3787ac1c-b077-4960-b717-ce3e7361f8a4,3943043,11,Nicholas Williams Arthuer,68574.0,Left Foot,Blocked,0.06802966,115.6,28.4,116.0,29.3,,Spain,772,home
+c825856a-5a21-4507-b9e2-ea07b5bf4cca,3943043,12,Robin Aime Robert Le Normand,22128.0,Right Foot,Off T,0.11746518,112.9,36.2,120.0,29.8,0.5,Spain,772,home
+dd4098ae-cd79-4d2a-9717-e95b5fd21674,3943043,16,Declan Rice,3943.0,Right Foot,Blocked,0.0489952,96.2,40.8,98.5,40.8,,England,768,away
+7f58b69c-8311-493f-91dd-d2a57ac07387,3943043,27,Fabián Ruiz Peña,6655.0,Right Foot,Saved,0.048117142,101.2,49.8,117.9,42.7,1.5,Spain,772,home
+064d60aa-8976-42ad-9186-b26265fe1d1a,3943043,34,Daniel Olmo Carvajal,16532.0,Right Foot,Blocked,0.02654902,95.0,31.2,110.3,34.7,,Spain,772,home
+2927d5ca-c7c1-4296-81a6-41e7f28cbfbd,3943043,42,Álvaro Borja Morata Martín,3477.0,Right Foot,Blocked,0.07835983,113.9,30.2,114.3,30.9,,Spain,772,home
+484f93a1-bf76-4bfa-a221-9f43d577ecbf,3943043,44,Harry Kane,10955.0,Right Foot,Blocked,0.048372418,102.6,36.7,104.4,36.9,,England,768,away
+37dba1eb-66ba-4fde-a3f2-0bb571817528,3943043,45,Phil Foden,4354.0,Left Foot,Saved,0.1796937,114.4,29.9,118.9,36.8,0.5,England,768,away
+64e7e679-4246-4172-b59e-56905a09ffbf,3943043,46,Nicholas Williams Arthuer,68574.0,Left Foot,Goal,0.1124816,109.9,28.0,120.0,42.4,0.2,Spain,772,home
+7ba261a3-9a7f-4068-8547-6a7355fa032f,3943043,48,Daniel Olmo Carvajal,16532.0,Left Foot,Off T,0.2455793,108.8,32.1,120.0,49.3,0.1,Spain,772,home
+02c1f765-7ef5-4262-8ba9-91460f91d317,3943043,54,Álvaro Borja Morata Martín,3477.0,Left Foot,Blocked,0.02528921,95.8,46.1,97.1,45.8,,Spain,772,home
+c5c8b815-2869-4b45-ac6c-dfdad0b3d4c5,3943043,54,Álvaro Borja Morata Martín,3477.0,Right Foot,Wayward,0.24310583,110.9,51.0,115.5,40.2,,Spain,772,home
+04ce2e1e-1ffc-4269-b14e-de16f303a5c5,3943043,55,Nicholas Williams Arthuer,68574.0,Right Foot,Off T,0.04913289,97.2,43.4,120.0,34.2,0.2,Spain,772,home
+4003c4bf-c312-4e5f-8b94-41355f26f1fa,3943043,63,Jude Bellingham,30714.0,Left Foot,Off T,0.05628593,99.0,37.2,120.0,35.0,0.2,England,768,away
+06960e85-8515-4da0-9828-81c07cce0d6e,3943043,65,Lamine Yamal Nasraoui Ebana,316046.0,Left Foot,Saved,0.16213313,103.5,49.7,113.3,43.1,0.1,Spain,772,home
+cc33ae6a-a186-4b6d-890a-ef0e59327853,3943043,66,Aymeric Laporte,4353.0,Head,Blocked,0.097933225,111.9,43.8,112.4,43.4,,Spain,772,home
+9c6371c7-8400-498f-8254-ed2fa2a56d93,3943043,69,Fabián Ruiz Peña,6655.0,Left Foot,Off T,0.03257165,93.3,35.9,120.0,42.8,5.0,Spain,772,home
+be6417cc-b3ec-4a67-a4b2-e6648b14566d,3943043,69,Ollie Watkins,4760.0,Right Foot,Blocked,0.07470869,91.0,40.1,92.2,40.0,,England,768,away
+cebe071f-c7b3-4c7b-88c1-73d5e70e22a4,3943043,71,Mikel Oyarzabal Ugarte,6685.0,Left Foot,Saved,0.037707567,112.0,24.9,118.3,36.7,0.2,Spain,772,home
+45a21d64-ccc8-4007-b9c8-fb3f6992dace,3943043,72,Cole Palmer,39461.0,Left Foot,Goal,0.03794335,98.4,49.0,120.0,37.1,0.2,England,768,away
+32c3acc6-3796-44d2-93d1-2268bbcc0050,3943043,81,Lamine Yamal Nasraoui Ebana,316046.0,Left Foot,Saved,0.16392969,107.2,50.2,116.9,42.3,0.8,Spain,772,home
+35c0a2a4-8e87-41cf-a26f-f85859261d87,3943043,85,Mikel Oyarzabal Ugarte,6685.0,Right Foot,Goal,0.2833282,111.2,36.3,120.0,38.4,0.2,Spain,772,home
+a7918f5b-489f-4e7d-b815-a9409488f7d0,3943043,89,Declan Rice,3943.0,Head,Saved,0.057442125,109.5,44.1,118.6,40.4,1.8,England,768,away
+78efc835-09e5-468f-a87b-f593799568c4,3943043,89,Marc Guehi,34526.0,Head,Blocked,0.117154144,114.8,35.5,119.5,38.0,,England,768,away
+e6df2aac-8a83-47c2-94a8-094c90c3e03d,3943043,89,Declan Rice,3943.0,Head,Off T,0.10578214,113.1,41.4,120.0,36.4,3.8,England,768,away

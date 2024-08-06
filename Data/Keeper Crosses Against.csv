@@ -1,0 +1,20 @@
+match_id,id,minute,player,player_id,location_x,location_y,pass_end_location_x,pass_end_location_y,pass_outcome,goalkeeper_type,team,team_id,home_away
+3943043,1025b0c4-5978-4a99-a758-40aedaf1c079,14,Kyle Walker,3205.0,117.1,56.5,116.1,45.0,Incomplete,,England,768,Home
+3943043,db26051c-2126-4e40-baa7-b2bb6150457e,44,Jude Bellingham,30714.0,106.3,18.5,102.8,37.3,,,England,768,Home
+3943043,ce9d3bc7-b7fc-4eae-856c-5f748e2fc3c7,45,Declan Rice,3943.0,91.1,62.7,111.1,37.4,Incomplete,,England,768,Home
+3943043,ed6dd9f0-aacf-4bb8-bec3-4b1e98589204,51,Kyle Walker,3205.0,102.2,72.3,110.6,0.4,Out,,England,768,Home
+3943043,6471de7a-3d85-46a0-b934-78fc0c55a58b,62,Phil Foden,4354.0,99.0,72.3,110.0,46.8,Incomplete,,England,768,Home
+3943043,2bd4e130-518b-4abd-b31f-9555e2f50e32,72,Bukayo Saka,22084.0,109.5,60.5,107.4,47.0,,,England,768,Home
+3943043,243cca9a-c2ca-47aa-9328-66569b02175b,74,Bukayo Saka,22084.0,110.8,58.8,112.0,45.6,Incomplete,,England,768,Home
+3943043,1f900d7c-eb9a-4130-8368-7ec4c4fd98aa,4,Daniel Olmo Carvajal,16532.0,91.4,68.5,111.6,39.3,Incomplete,,Spain,772,Away
+3943043,3d00c9d5-56c4-4ef5-a13c-5d7f153c2b23,4,Nicholas Williams Arthuer,68574.0,100.7,10.4,111.5,35.3,Incomplete,,Spain,772,Away
+3943043,877b6bed-f897-4121-b50e-4dce5918b84b,13,Nicholas Williams Arthuer,68574.0,106.7,11.3,107.7,37.7,Incomplete,,Spain,772,Away
+3943043,aba3b5da-4a10-469a-aed3-15d5cf2eee51,18,Daniel Carvajal Ramos,5721.0,88.3,69.5,116.1,40.6,Incomplete,,Spain,772,Away
+3943043,71399bf8-f1e2-4549-aab4-0a0b2ec617e1,23,Nicholas Williams Arthuer,68574.0,104.5,61.0,111.6,39.3,Incomplete,,Spain,772,Away
+3943043,5ad7c6b2-cbf4-4068-81dc-336fc4395426,35,Nicholas Williams Arthuer,68574.0,100.3,8.0,120.0,51.6,Out,,Spain,772,Away
+3943043,c3e7e7d4-a046-4d29-a438-d1ef11b28981,68,Daniel Olmo Carvajal,16532.0,110.1,14.7,115.9,44.4,Incomplete,,Spain,772,Away
+3943043,0f6a0617-de3d-4ef7-8c20-f08d78db37d4,69,Martín Zubimendi Ibáñez,24921.0,116.2,69.7,112.9,33.0,Incomplete,,Spain,772,Away
+3943043,198437b1-404c-4e1e-ae7e-d2a71d020662,77,Daniel Carvajal Ramos,5721.0,91.7,70.5,111.7,7.0,,,Spain,772,Away
+3943043,30618ef7-b139-469f-9bab-1c3674ec437e,77,Nicholas Williams Arthuer,68574.0,116.2,12.2,113.9,33.6,Incomplete,,Spain,772,Away
+3943043,9d683aa0-4db6-49cb-aff7-8d66e3d39d6e,84,Lamine Yamal Nasraoui Ebana,316046.0,117.9,57.4,114.5,41.1,Incomplete,,Spain,772,Away
+3943043,c62dd5f1-7e67-4e25-8e28-8fc859a6fd47,85,Marc Cucurella Saseta,17620.0,100.0,12.7,111.2,36.3,,,Spain,772,Away

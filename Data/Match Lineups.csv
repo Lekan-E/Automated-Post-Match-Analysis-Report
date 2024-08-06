@@ -1,0 +1,51 @@
+player_id,player_name,jersey_number,country,cards,team,home_away,player_position,bench_status,team_manager
+3042,Mikel Merino Zazón,6,Spain,,Spain,home,Right Wing,Substitute,Luis de la Fuente Castillo
+3265,José Luis Sanmartín Mato,9,Spain,,Spain,home,,Bench,Luis de la Fuente Castillo
+3477,Álvaro Borja Morata Martín,7,Spain,,Spain,home,Center Forward,Starter,Luis de la Fuente Castillo
+4127,David Raya Martin,1,Spain,,Spain,home,,Bench,Luis de la Fuente Castillo
+4353,Aymeric Laporte,14,Spain,,Spain,home,Left Center Back,Starter,Luis de la Fuente Castillo
+5202,José Ignacio Fernández Iglesias,4,Spain,,Spain,home,Right Center Back,Substitute,Luis de la Fuente Castillo
+5721,Daniel Carvajal Ramos,2,Spain,,Spain,home,Right Back,Starter,Luis de la Fuente Castillo
+6655,Fabián Ruiz Peña,8,Spain,,Spain,home,Left Defensive Midfield,Starter,Luis de la Fuente Castillo
+6685,Mikel Oyarzabal Ugarte,21,Spain,,Spain,home,Center Forward,Substitute,Luis de la Fuente Castillo
+6748,Ferrán Torres García,11,Spain,,Spain,home,,Bench,Luis de la Fuente Castillo
+6765,Rodrigo Hernández Cascante,16,Spain,,Spain,home,Right Defensive Midfield,Starter,Luis de la Fuente Castillo
+6821,Jesús Navas González,22,Spain,,Spain,home,,Bench,Luis de la Fuente Castillo
+10336,Alejandro Grimaldo García,12,Spain,,Spain,home,,Bench,Luis de la Fuente Castillo
+11748,Unai Simón Mendibil,23,Spain,,Spain,home,Goalkeeper,Starter,Luis de la Fuente Castillo
+16532,Daniel Olmo Carvajal,10,Spain,29:57,Spain,home,Center Attacking Midfield,Starter,Luis de la Fuente Castillo
+17620,Marc Cucurella Saseta,24,Spain,,Spain,home,Left Back,Starter,Luis de la Fuente Castillo
+22128,Robin Aime Robert Le Normand,3,Spain,,Spain,home,Right Center Back,Starter,Luis de la Fuente Castillo
+24921,Martín Zubimendi Ibáñez,18,Spain,,Spain,home,Right Defensive Midfield,Substitute,Luis de la Fuente Castillo
+32185,Alejandro Remiro Gargallo,13,Spain,,Spain,home,,Bench,Luis de la Fuente Castillo
+41115,Alejandro Baena Rodríguez,15,Spain,,Spain,home,,Bench,Luis de la Fuente Castillo
+41542,Daniel Vivian Moreno,5,Spain,,Spain,home,,Bench,Luis de la Fuente Castillo
+68574,Nicholas Williams Arthuer,17,Spain,,Spain,home,Left Wing,Starter,Luis de la Fuente Castillo
+143864,Fermin Lopez Marin,25,Spain,,Spain,home,,Bench,Luis de la Fuente Castillo
+316046,Lamine Yamal Nasraoui Ebana,19,Spain,,Spain,home,Right Wing,Starter,Luis de la Fuente Castillo
+3088,Lewis Dunk,15,England,,England,away,,Bench,Gareth Southgate
+3205,Kyle Walker,2,England,,England,away,Right Back,Starter,Gareth Southgate
+3244,John Stones,5,England,52:31,England,away,Right Center Back,Starter,Gareth Southgate
+3308,Kieran Trippier,12,England,,England,away,,Bench,Gareth Southgate
+3382,Luke Shaw,3,England,,England,away,Left Back,Starter,Gareth Southgate
+3468,Jordan Pickford,1,England,,England,away,Goalkeeper,Starter,Gareth Southgate
+3495,Joe Gomez,22,England,,England,away,,Bench,Gareth Southgate
+3664,Trent Alexander-Arnold,8,England,,England,away,,Bench,Gareth Southgate
+3822,Ezri Konsa Ngoyo,14,England,,England,away,,Bench,Gareth Southgate
+3834,Ivan Toney,17,England,,England,away,Left Wing,Substitute,Gareth Southgate
+3943,Declan Rice,4,England,,England,away,Left Defensive Midfield,Starter,Gareth Southgate
+4073,Dean Henderson,23,England,,England,away,,Bench,Gareth Southgate
+4354,Phil Foden,11,England,,England,away,Center Attacking Midfield,Starter,Gareth Southgate
+4760,Ollie Watkins,19,England,90:54,England,away,Center Forward,Substitute,Gareth Southgate
+9000,Eberechi Eze,21,England,,England,away,,Bench,Gareth Southgate
+9640,Jarrod Bowen,20,England,,England,away,,Bench,Gareth Southgate
+10955,Harry Kane,9,England,24:38,England,away,Center Forward,Starter,Gareth Southgate
+22084,Bukayo Saka,7,England,,England,away,Right Wing,Starter,Gareth Southgate
+22783,Aaron Ramsdale,13,England,,England,away,,Bench,Gareth Southgate
+28104,Anthony Gordon,18,England,,England,away,,Bench,Gareth Southgate
+29399,Conor Gallagher,16,England,,England,away,,Bench,Gareth Southgate
+30714,Jude Bellingham,10,England,,England,away,Left Wing,Starter,Gareth Southgate
+34526,Marc Guehi,6,England,,England,away,Left Center Back,Starter,Gareth Southgate
+39461,Cole Palmer,24,England,,England,away,Right Defensive Midfield,Substitute,Gareth Southgate
+77723,Adam Wharton,25,England,,England,away,,Bench,Gareth Southgate
+99174,Kobbie Mainoo,26,England,,England,away,Right Defensive Midfield,Starter,Gareth Southgate
