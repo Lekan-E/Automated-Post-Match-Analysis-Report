@@ -1,4 +1,4 @@
-# Post-Match Tactical Analysis of UEFA Euro 2024 Final
+# Comprehensive Post-Match Analysis Report
 ### Description:
 I developed a comprehensive post-match tactical analysis report for the UEFA Euro 2024 Final between Spain and England. This project involved multiple stages of data processing, analysis, and visualization to provide detailed insights into the match dynamics and player performances.
 
